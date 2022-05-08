@@ -1,0 +1,2 @@
+Welcome to Kishore Bhukya Github.
+This repository is for identifying Number plate of vehicle by uploading image into base64 bits format
